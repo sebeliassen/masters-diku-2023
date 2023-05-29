@@ -1,0 +1,130 @@
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /opt/conda/envs/exact/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda111.so
+CUDA SETUP: CUDA runtime path found: /opt/conda/envs/exact/lib/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 7.5
+CUDA SETUP: Detected CUDA version 111
+CUDA SETUP: Loading binary /opt/conda/envs/exact/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda111.so...
+model config: {'arch_name': 'SAGE', 'architecture': {'num_layers': 2, 'hidden_channels': 128, 'dropout': 0.5, 'batch_norm': True, 'residual': False}, 'optim': 'adam', 'lr': 0.01, 'epochs': 400, 'name': 'SAGE', 'loop': False, 'normalize': False}
+clipping grad norm: 0.5
+==============================Store activation in INT2==============================
+use qmodule: True
+kept frac: 0.125
+Use GPU 0 for training
+convert the model
+QModule(
+  (model): SAGE(
+    (dropout): QDropout()
+    (activation): QReLU()
+    (convs): ModuleList(
+      (0): QSAGEConv(602, 128)
+      (1): QSAGEConv(128, 41)
+    )
+    (bns): ModuleList(
+      (0): QBatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+)
+converting data form...
+done. used 0.8418145179748535 sec
+Run 01:
+Highest Train: 98.85
+Highest Valid: 96.46
+  Final Train: 98.21
+   Final Test: 96.26
+Run 02:
+Highest Train: 98.89
+Highest Valid: 96.38
+  Final Train: 98.25
+   Final Test: 96.36
+Run 03:
+Highest Train: 98.85
+Highest Valid: 96.39
+  Final Train: 97.83
+   Final Test: 96.35
+Run 04:
+Highest Train: 98.85
+Highest Valid: 96.43
+  Final Train: 98.30
+   Final Test: 96.27
+Run 05:
+Highest Train: 98.87
+Highest Valid: 96.44
+  Final Train: 98.59
+   Final Test: 96.32
+All runs:
+Highest Train: 98.86 ± 0.02
+Highest Valid: 96.42 ± 0.04
+  Final Train: 98.24 ± 0.27
+   Final Test: 96.31 ± 0.04
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /opt/conda/envs/exact/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda111.so
+CUDA SETUP: CUDA runtime path found: /opt/conda/envs/exact/lib/libcudart.so.11.0
+CUDA SETUP: Highest compute capability among GPUs detected: 7.5
+CUDA SETUP: Detected CUDA version 111
+CUDA SETUP: Loading binary /opt/conda/envs/exact/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda111.so...
+model config: {'arch_name': 'SAGE', 'architecture': {'num_layers': 2, 'hidden_channels': 128, 'dropout': 0.5, 'batch_norm': True, 'residual': False}, 'optim': 'adam', 'lr': 0.01, 'epochs': 400, 'name': 'SAGE', 'loop': False, 'normalize': False}
+clipping grad norm: 0.5
+==============================Store activation in INT2==============================
+use qmodule: True
+kept frac: 0.125
+Use GPU 0 for training
+convert the model
+QModule(
+  (model): SAGE(
+    (dropout): QDropout()
+    (activation): QReLU()
+    (convs): ModuleList(
+      (0): QSAGEConv(602, 128)
+      (1): QSAGEConv(128, 41)
+    )
+    (bns): ModuleList(
+      (0): QBatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+)
+converting data form...
+done. used 0.8380720615386963 sec
+Run 01:
+Highest Train: 98.90
+Highest Valid: 96.43
+  Final Train: 98.26
+   Final Test: 96.24
+Run 02:
+Highest Train: 98.90
+Highest Valid: 96.45
+  Final Train: 98.68
+   Final Test: 96.32
+Run 03:
+Highest Train: 98.88
+Highest Valid: 96.40
+  Final Train: 98.48
+   Final Test: 96.34
+Run 04:
+Highest Train: 98.89
+Highest Valid: 96.37
+  Final Train: 97.77
+   Final Test: 96.28
+Run 05:
+Highest Train: 98.85
+Highest Valid: 96.42
+  Final Train: 98.41
+   Final Test: 96.30
+All runs:
+Highest Train: 98.88 ± 0.02
+Highest Valid: 96.42 ± 0.03
+  Final Train: 98.32 ± 0.34
+   Final Test: 96.30 ± 0.04

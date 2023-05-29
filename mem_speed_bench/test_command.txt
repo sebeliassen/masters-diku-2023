@@ -1,0 +1,1 @@
+python ./arxiv/train_full_batch.py --conf ./arxiv/conf/sage.yaml --n_bits 2 --kept_frac 0.125 --debug_mem --test_speed --test_co2 --col_size 0

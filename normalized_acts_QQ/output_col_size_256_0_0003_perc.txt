@@ -1,0 +1,91 @@
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /opt/conda/envs/exact/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda111.so
+CUDA SETUP: CUDA runtime path found: /opt/conda/envs/exact/lib/libcudart.so.11.0
+CUDA SETUP: Highest compute capability among GPUs detected: 7.5
+CUDA SETUP: Detected CUDA version 111
+CUDA SETUP: Loading binary /opt/conda/envs/exact/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda111.so...
+==============================Store activation in INT2==============================
+use qmodule: True
+kept frac: 0.125
+amp mode: False
+use the custom loss function
+Use GPU 0 for training
+clipping grad norm: 0.5
+convert the model
+QModule(
+  (model): SAGE(
+    (dropout): QDropout()
+    (activation): QReLU()
+    (convs): ModuleList(
+      (0): QSAGEConv(128, 128)
+      (1): QSAGEConv(128, 128)
+      (2): QSAGEConv(128, 40)
+    )
+    (bns): ModuleList(
+      (0): QBatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (1): QBatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+)
+Run 01:
+Highest Train: 76.22
+Highest Valid: 72.53
+  Final Train: 76.13
+   Final Test: 70.81
+Run 02:
+Highest Train: 76.00
+Highest Valid: 72.19
+  Final Train: 76.00
+   Final Test: 70.78
+Run 03:
+Highest Train: 75.92
+Highest Valid: 72.17
+  Final Train: 75.76
+   Final Test: 70.72
+Run 04:
+Highest Train: 76.05
+Highest Valid: 72.33
+  Final Train: 75.62
+   Final Test: 71.33
+Run 05:
+Highest Train: 75.96
+Highest Valid: 72.27
+  Final Train: 75.85
+   Final Test: 71.06
+Run 06:
+Highest Train: 76.10
+Highest Valid: 72.48
+  Final Train: 75.48
+   Final Test: 71.12
+Run 07:
+Highest Train: 76.11
+Highest Valid: 72.31
+  Final Train: 75.66
+   Final Test: 71.13
+Run 08:
+Highest Train: 76.10
+Highest Valid: 72.20
+  Final Train: 74.86
+   Final Test: 71.24
+Run 09:
+Highest Train: 76.04
+Highest Valid: 72.37
+  Final Train: 75.81
+   Final Test: 71.42
+Run 10:
+Highest Train: 76.02
+Highest Valid: 72.21
+  Final Train: 75.93
+   Final Test: 70.51
+All runs:
+Highest Train: 76.05 ± 0.09
+Highest Valid: 72.31 ± 0.13
+  Final Train: 75.71 ± 0.35
+   Final Test: 71.01 ± 0.29

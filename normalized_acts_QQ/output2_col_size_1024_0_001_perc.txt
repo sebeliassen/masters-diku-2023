@@ -1,0 +1,70 @@
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /opt/conda/envs/exact/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda111.so
+CUDA SETUP: CUDA runtime path found: /opt/conda/envs/exact/lib/libcudart.so.11.0
+CUDA SETUP: Highest compute capability among GPUs detected: 7.5
+CUDA SETUP: Detected CUDA version 111
+CUDA SETUP: Loading binary /opt/conda/envs/exact/lib/python3.8/site-packages/bitsandbytes/libbitsandbytes_cuda111.so...
+==============================Store activation in INT2==============================
+use qmodule: True
+kept frac: 0.125
+amp mode: False
+use the custom loss function
+Use GPU 0 for training
+clipping grad norm: 0.5
+convert the model
+QModule(
+  (model): SAGE(
+    (dropout): QDropout()
+    (activation): QReLU()
+    (convs): ModuleList(
+      (0): QSAGEConv(128, 128)
+      (1): QSAGEConv(128, 128)
+      (2): QSAGEConv(128, 40)
+    )
+    (bns): ModuleList(
+      (0): QBatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (1): QBatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+)
+========== Model and Optimizer Only ===========
+allocated: 0.30 MB
+reserved:  2.00 MB
+========== Load data to GPU ===========
+allocated: 162.31 MB
+reserved:  180.00 MB
+========== Before Backward ===========
+allocated: 201.74 MB
+reserved:  558.00 MB
+max allocated mem (MB): 526.82861328125
+Total Mem: 201.74 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+========== After Backward ===========
+allocated: 163.19 MB
+reserved:  580.00 MB
+Total Mem: 202.62 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+max allocated mem (MB): 539.53955078125
+Save exp results to mem_results.json
+epoch/s: 8.119963238630785
+CarbonTracker: The following components were found: GPU with device(s) Tesla T4.
+CarbonTracker: 
+Actual consumption for 1 epoch(s):
+	Time:	0:00:00
+	Energy:	0.000002 kWh
+	CO2eq:	0.000778 g
+	This is equivalent to:
+	0.000007 km travelled by car
+CarbonTracker: 
+Predicted consumption for 100 epoch(s):
+	Time:	0:00:10
+	Energy:	0.000221 kWh
+	CO2eq:	0.077757 g
+	This is equivalent to:
+	0.000723 km travelled by car
+CarbonTracker: Finished monitoring.

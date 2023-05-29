@@ -1,0 +1,78 @@
+==============================Store activation in INT2==============================
+use qmodule: True
+kept frac: 0.125
+amp mode: False
+use the custom loss function
+Use GPU 0 for training
+clipping grad norm: 0.5
+convert the model
+QModule(
+  (model): SAGE(
+    (dropout): QDropout()
+    (activation): QReLU()
+    (convs): ModuleList(
+      (0): QSAGEConv(128, 128)
+      (1): QSAGEConv(128, 128)
+      (2): QSAGEConv(128, 40)
+    )
+    (bns): ModuleList(
+      (0): QBatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (1): QBatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+)
+Run 01:
+Highest Train: 75.98
+Highest Valid: 72.41
+  Final Train: 75.91
+   Final Test: 70.84
+Run 02:
+Highest Train: 76.02
+Highest Valid: 72.57
+  Final Train: 76.01
+   Final Test: 71.50
+Run 03:
+Highest Train: 75.99
+Highest Valid: 72.30
+  Final Train: 75.97
+   Final Test: 71.14
+Run 04:
+Highest Train: 76.00
+Highest Valid: 72.46
+  Final Train: 75.69
+   Final Test: 71.40
+Run 05:
+Highest Train: 75.92
+Highest Valid: 72.49
+  Final Train: 75.68
+   Final Test: 71.06
+Run 06:
+Highest Train: 75.88
+Highest Valid: 72.17
+  Final Train: 75.74
+   Final Test: 70.51
+Run 07:
+Highest Train: 75.91
+Highest Valid: 72.26
+  Final Train: 75.28
+   Final Test: 71.24
+Run 08:
+Highest Train: 75.69
+Highest Valid: 72.19
+  Final Train: 74.99
+   Final Test: 71.40
+Run 09:
+Highest Train: 76.08
+Highest Valid: 72.51
+  Final Train: 75.75
+   Final Test: 71.21
+Run 10:
+Highest Train: 76.00
+Highest Valid: 72.32
+  Final Train: 75.14
+   Final Test: 71.06
+All runs:
+Highest Train: 75.95 ± 0.11
+Highest Valid: 72.37 ± 0.14
+  Final Train: 75.62 ± 0.36
+   Final Test: 71.13 ± 0.29

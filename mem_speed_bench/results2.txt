@@ -1,0 +1,294 @@
+filename: output2_col_size_0_0_00001_perc.txt
+  speed: epoch/s: 7.807790523041979
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000205 kWh
+
+filename: output2_col_size_0_0_00003_perc.txt
+  speed: epoch/s: 7.778759046997121
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000309 kWh
+
+filename: output2_col_size_0_0_0001_perc.txt
+  speed: epoch/s: 7.764902315852184
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000338 kWh
+
+filename: output2_col_size_0_0_0003_perc.txt
+  speed: epoch/s: 7.848590149943614
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000201 kWh
+
+filename: output2_col_size_0_0_001_perc.txt
+  speed: epoch/s: 7.665466305827379
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000294 kWh
+
+filename: output2_col_size_0_0_003_perc.txt
+  speed: epoch/s: 7.9014941595725405
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000263 kWh
+
+filename: output2_col_size_0_0_01_perc.txt
+  speed: epoch/s: 8.167997573380848
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000259 kWh
+
+filename: output2_col_size_1024_0_00001_perc.txt
+  speed: epoch/s: 8.133827879732637
+  act_mem: Total Mem: 201.74 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+Total Mem: 202.62 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+  co2: 	Energy:	0.000301 kWh
+
+filename: output2_col_size_1024_0_00003_perc.txt
+  speed: epoch/s: 8.065861737650303
+  act_mem: Total Mem: 201.74 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+Total Mem: 202.62 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+  co2: 	Energy:	0.000294 kWh
+
+filename: output2_col_size_1024_0_0001_perc.txt
+  speed: epoch/s: 8.12630816280415
+  act_mem: Total Mem: 201.74 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+Total Mem: 202.62 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+  co2: 	Energy:	0.000291 kWh
+
+filename: output2_col_size_1024_0_0003_perc.txt
+  speed: epoch/s: 8.095546152955473
+  act_mem: Total Mem: 201.74 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+Total Mem: 202.62 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+  co2: 	Energy:	0.000282 kWh
+
+filename: output2_col_size_1024_0_001_perc.txt
+  speed: epoch/s: 8.119963238630785
+  act_mem: Total Mem: 201.74 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+Total Mem: 202.62 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+  co2: 	Energy:	0.000221 kWh
+
+filename: output2_col_size_1024_0_003_perc.txt
+  speed: epoch/s: 8.074746635645766
+  act_mem: Total Mem: 201.74 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+Total Mem: 202.62 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+  co2: 	Energy:	0.000193 kWh
+
+filename: output2_col_size_1024_0_01_perc.txt
+  speed: epoch/s: 8.141366741289806
+  act_mem: Total Mem: 201.74 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+Total Mem: 202.62 MB	Data Mem: 162.01 MB	Act Mem: 25.56 MB
+  co2: 	Energy:	0.000222 kWh
+
+filename: output2_col_size_128_0_00001_perc.txt
+  speed: epoch/s: 8.028018010703324
+  act_mem: Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+Total Mem: 204.14 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+  co2: 	Energy:	0.000255 kWh
+
+filename: output2_col_size_128_0_00003_perc.txt
+  speed: epoch/s: 8.02489181578717
+  act_mem: Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+Total Mem: 204.14 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+  co2: 	Energy:	0.000291 kWh
+
+filename: output2_col_size_128_0_0001_perc.txt
+  speed: epoch/s: 8.056141822226744
+  act_mem: Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+Total Mem: 204.14 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+  co2: 	Energy:	0.000334 kWh
+
+filename: output2_col_size_128_0_0003_perc.txt
+  speed: epoch/s: 8.039162026594472
+  act_mem: Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+Total Mem: 204.14 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+  co2: 	Energy:	0.000318 kWh
+
+filename: output2_col_size_128_0_001_perc.txt
+  speed: epoch/s: 8.046567563698
+  act_mem: Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+Total Mem: 204.14 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+  co2: 	Energy:	0.000329 kWh
+
+filename: output2_col_size_128_0_003_perc.txt
+  speed: epoch/s: 8.0410774569568
+  act_mem: Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+Total Mem: 204.14 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+  co2: 	Energy:	0.000325 kWh
+
+filename: output2_col_size_128_0_01_perc.txt
+  speed: epoch/s: 8.095716942675091
+  act_mem: Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+Total Mem: 204.14 MB	Data Mem: 162.01 MB	Act Mem: 27.08 MB
+  co2: 	Energy:	0.000294 kWh
+
+filename: output2_col_size_16_0_00001_perc.txt
+  speed: epoch/s: 7.7804616013262855
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000318 kWh
+
+filename: output2_col_size_16_0_00003_perc.txt
+  speed: epoch/s: 7.789146991071339
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000209 kWh
+
+filename: output2_col_size_16_0_0001_perc.txt
+  speed: epoch/s: 7.791865198687079
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000281 kWh
+
+filename: output2_col_size_16_0_0003_perc.txt
+  speed: epoch/s: 7.782649219580624
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000301 kWh
+
+filename: output2_col_size_16_0_001_perc.txt
+  speed: epoch/s: 7.769987975360883
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000285 kWh
+
+filename: output2_col_size_16_0_003_perc.txt
+  speed: epoch/s: 7.7854692539874435
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000320 kWh
+
+filename: output2_col_size_16_0_01_perc.txt
+  speed: epoch/s: 7.898562985673923
+  act_mem: Total Mem: 206.65 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+Total Mem: 207.53 MB	Data Mem: 162.01 MB	Act Mem: 30.47 MB
+  co2: 	Energy:	0.000311 kWh
+
+filename: output2_col_size_256_0_00001_perc.txt
+  speed: epoch/s: 8.108308948952441
+  act_mem: Total Mem: 202.38 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+  co2: 	Energy:	0.000296 kWh
+
+filename: output2_col_size_256_0_00003_perc.txt
+  speed: epoch/s: 8.154366800889015
+  act_mem: Total Mem: 202.38 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+  co2: 	Energy:	0.000262 kWh
+
+filename: output2_col_size_256_0_0001_perc.txt
+  speed: epoch/s: 8.141266078538735
+  act_mem: Total Mem: 202.38 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+  co2: 	Energy:	0.000291 kWh
+
+filename: output2_col_size_256_0_0003_perc.txt
+  speed: epoch/s: 8.100031420591167
+  act_mem: Total Mem: 202.38 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+  co2: 	Energy:	0.000277 kWh
+
+filename: output2_col_size_256_0_001_perc.txt
+  speed: epoch/s: 8.173324273305976
+  act_mem: Total Mem: 202.38 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+  co2: 	Energy:	0.000215 kWh
+
+filename: output2_col_size_256_0_003_perc.txt
+  speed: epoch/s: 8.133400122957857
+  act_mem: Total Mem: 202.38 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+  co2: 	Energy:	0.000287 kWh
+
+filename: output2_col_size_256_0_01_perc.txt
+  speed: epoch/s: 8.106098627913227
+  act_mem: Total Mem: 202.38 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+Total Mem: 203.26 MB	Data Mem: 162.01 MB	Act Mem: 26.20 MB
+  co2: 	Energy:	0.000319 kWh
+
+filename: output2_col_size_512_0_00001_perc.txt
+  speed: epoch/s: 8.131061663080168
+  act_mem: Total Mem: 201.94 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+Total Mem: 202.82 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+  co2: 	Energy:	0.000229 kWh
+
+filename: output2_col_size_512_0_00003_perc.txt
+  speed: epoch/s: 8.153163710445419
+  act_mem: Total Mem: 201.94 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+Total Mem: 202.82 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+  co2: 	Energy:	0.000284 kWh
+
+filename: output2_col_size_512_0_0001_perc.txt
+  speed: epoch/s: 8.11799119170828
+  act_mem: Total Mem: 201.94 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+Total Mem: 202.82 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+  co2: 	Energy:	0.000298 kWh
+
+filename: output2_col_size_512_0_0003_perc.txt
+  speed: epoch/s: 8.158808151828733
+  act_mem: Total Mem: 201.94 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+Total Mem: 202.82 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+  co2: 	Energy:	0.000275 kWh
+
+filename: output2_col_size_512_0_001_perc.txt
+  speed: epoch/s: 8.097737746026976
+  act_mem: Total Mem: 201.94 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+Total Mem: 202.82 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+  co2: 	Energy:	0.000256 kWh
+
+filename: output2_col_size_512_0_003_perc.txt
+  speed: epoch/s: 8.116271854656429
+  act_mem: Total Mem: 201.94 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+Total Mem: 202.82 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+  co2: 	Energy:	0.000314 kWh
+
+filename: output2_col_size_512_0_01_perc.txt
+  speed: epoch/s: 8.109141677278934
+  act_mem: Total Mem: 201.94 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+Total Mem: 202.82 MB	Data Mem: 162.01 MB	Act Mem: 25.76 MB
+  co2: 	Energy:	0.000328 kWh
+
+filename: output2_col_size_64_0_00001_perc.txt
+  speed: epoch/s: 8.00120257332378
+  act_mem: Total Mem: 203.75 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+Total Mem: 204.63 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+  co2: 	Energy:	0.000332 kWh
+
+filename: output2_col_size_64_0_00003_perc.txt
+  speed: epoch/s: 7.987858725322324
+  act_mem: Total Mem: 203.75 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+Total Mem: 204.63 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+  co2: 	Energy:	0.000335 kWh
+
+filename: output2_col_size_64_0_0001_perc.txt
+  speed: epoch/s: 7.98141868587569
+  act_mem: Total Mem: 203.75 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+Total Mem: 204.63 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+  co2: 	Energy:	0.000191 kWh
+
+filename: output2_col_size_64_0_0003_perc.txt
+  speed: epoch/s: 7.959577839712325
+  act_mem: Total Mem: 203.75 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+Total Mem: 204.63 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+  co2: 	Energy:	0.000311 kWh
+
+filename: output2_col_size_64_0_001_perc.txt
+  speed: epoch/s: 7.991947962432488
+  act_mem: Total Mem: 203.75 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+Total Mem: 204.63 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+  co2: 	Energy:	0.000285 kWh
+
+filename: output2_col_size_64_0_003_perc.txt
+  speed: epoch/s: 7.997742641532719
+  act_mem: Total Mem: 203.75 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+Total Mem: 204.63 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+  co2: 	Energy:	0.000296 kWh
+
+filename: output2_col_size_64_0_01_perc.txt
+  speed: epoch/s: 7.875018360098789
+  act_mem: Total Mem: 203.75 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+Total Mem: 204.63 MB	Data Mem: 162.01 MB	Act Mem: 27.56 MB
+  co2: 	Energy:	0.000294 kWh
+
